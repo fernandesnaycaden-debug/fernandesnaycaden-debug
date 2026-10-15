@@ -13,6 +13,5 @@ Hi i am Nay Caden Fernandes  <br><br>A Bachelor of Computer Application Student<
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernandesnaycaden-debug&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fernandesnaycaden-debug&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
