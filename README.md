@@ -1,6 +1,6 @@
 ### Hi, I'm Nay 👋
 
-**Software Developer at Haztech · Goa, India**
+**Software Developer · Goa, India**
 
 I build and ship production web and mobile apps: WordPress & OpenCart sites by day, Flutter apps and developer tools on the side. Lately I'm deep into AI-assisted development and building tools that use LLMs.
 
