@@ -1,17 +1,62 @@
-# 💫 About Me:
-Hi i am Nay Caden Fernandes  <br><br>A Bachelor of Computer Application Student<br>Dedicated to crafting robust, user-centric web applications<br>Committed to continuous learning and writing clean, maintainable code.<br>Open to collaborations and opportunities to contribute to meaningful projects.<br>
+### Hi, I'm Nay 👋
 
+**Software Developer at Haztech · Goa, India**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Nay Caden Fernandes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandesnaycaden@gmail.com) 
+I build and ship production web and mobile apps: WordPress & OpenCart sites by day, Flutter apps and developer tools on the side. Lately I'm deep into AI-assisted development and building tools that use LLMs.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://streak-stats.demolab.com/?user=fernandesnaycaden-debug&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernandesnaycaden-debug&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔨 **At work:** building e-commerce sites on WordPress & OpenCart, and a Flutter app with REST API integrations
+- 🤖 **Side project:** [reviewbuddy](https://github.com/fernandesnaycaden-debug/reviewbuddy), an AI code reviewer for GitHub PRs that runs on local models
+- 🌱 **Learning:** clean Flutter architecture, state management, LLM tooling
+- 📫 **Reach me:** fernandesnaycaden@gmail.com
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech stack
+
+**Web & Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![OpenCart](https://img.shields.io/badge/OpenCart-23A1D1?style=flat-square&logo=opencart&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**reviewbuddy**](https://github.com/fernandesnaycaden-debug/reviewbuddy) | AI code reviewer that posts inline comments on GitHub PRs. Runs on local models (Ollama) or free cloud APIs, also as a GitHub Action. | Node.js · LLM APIs · GitHub Actions |
+| [**weather_app**](https://github.com/fernandesnaycaden-debug/weather_app) | Live weather for your current location with animated conditions. | Flutter · OpenWeatherMap API · Geolocation |
+| [**language_translator**](https://github.com/fernandesnaycaden-debug/language_translator) | Translate typed text, or scan text from a photo with on-device OCR and translate it. | Flutter · Google ML Kit |
+| [**to_do_app**](https://github.com/fernandesnaycaden-debug/to_do_app) | To-do list with sign-in and tasks synced to the cloud. | Flutter · Firebase Auth · Firestore |
+| [**qr_app**](https://github.com/fernandesnaycaden-debug/qr_app) | Generate QR codes and scan them with the camera. | Flutter |
+
+---
+
+### 📊 GitHub stats
+
+![Streak](https://streak-stats.demolab.com/?user=fernandesnaycaden-debug&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=fernandesnaycaden-debug&layout=compact&hide_border=true)
+
+---
+
+<p>
+  <a href="https://www.linkedin.com/in/naycadenfernandes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fernandesnaycaden@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
